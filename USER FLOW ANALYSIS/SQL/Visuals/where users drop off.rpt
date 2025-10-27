@@ -1,0 +1,9 @@
+﻿total_users dropped_after_signup dropped_after_verification dropped_after_activation
+----------- -------------------- -------------------------- ------------------------
+500         84                   74                         96
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(1 row affected)
+
+
+Completion time: 2025-10-27T15:55:05.0054504+01:00
